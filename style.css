@@ -1,0 +1,299 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.landing-page{
+    width: 1024px;
+    height: 1800px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), #086D1F;
+}
+
+.container{
+    position: absolute;
+width: 1024px;
+height: 540px;
+left: 0px;
+top: 0px;
+
+background: url(mountain.jpg);
+
+}
+
+.title{
+    position: absolute;
+    top: 23px;
+    left: 53px;
+
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.about-us{
+    position: absolute;
+    top: 23px;
+    left: 585px;
+    color: #000;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.contact-us{
+    position: absolute;
+    top: 23px;
+    left: 806px;
+    color: #000;
+    text-decoration: none;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.b-s-t{
+    position: absolute;
+    width: 311px;
+    height: 54px;
+    left: 374px;
+    top: 564px;
+
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.banff{
+position: absolute;
+width: 250px;
+height: 433px;
+left: 62px;
+top: 682px;
+
+background: url(banff.jpg);
+}
+
+.b-text{
+    position: absolute;
+width: 170px;
+height: 50px;
+left: 43px;
+top: 19px;
+
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+
+color: #000000;
+}
+
+.banff-button{
+    position: absolute;
+width: 183px;
+height: 45px;
+left: 34px;
+top: 341px;
+
+background: #08D0EB;
+border-radius: 30px;
+}
+
+.banff-btn{
+    position: absolute;
+width: 143px;
+height: 33px;
+left: 20px;
+top: 5px;
+
+color: #000;
+text-decoration: none;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;position: absolute;
+width: 143px;
+height: 33px;
+left: 20px;
+top: 5px;
+
+color: #000;
+text-decoration: none;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+}
+
+.city{
+    position: absolute;
+width: 250px;
+height: 433px;
+left: 391px;
+top: 682px;
+
+background: url(city.jpg);
+}
+
+.c-text{
+    position: absolute;
+width: 133px;
+height: 45px;
+left: 42px;
+top: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+}
+
+.city-button{
+    position: absolute;
+width: 183px;
+height: 45px;
+left: 21px;
+top: 341px;
+
+background: #08D0EB;
+border-radius: 30px;
+}
+
+.city-btn{
+    position: absolute;
+    width: 143px;
+    height: 33px;
+    left: 20px;
+    top: 5px;
+    
+    color: #000;
+    text-decoration: none;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.beach{
+    position: absolute;
+width: 250px;
+height: 433px;
+left: 705px;
+top: 682px;
+
+background: url(beach.jpg), #C4C4C4;
+}
+
+.beach-text{
+    position: absolute;
+width: 169px;
+height: 45px;
+left: 46px;
+top: 18px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+}
+.beach-button{
+    position: absolute;
+    width: 183px;
+    height: 45px;
+    left: 39px;
+    top: 341px;
+    
+    background: #08D0EB;
+    border-radius: 30px;
+}
+
+.beach-btn{
+    position: absolute;
+width: 143px;
+height: 33px;
+left: 20px;
+top: 5px;
+
+color: #000;
+text-decoration: none;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 33px;
+}
+
+.a-u{
+    position: absolute;
+    width: 265px;
+    height: 51px;
+    left: 406px;
+    top: 1149px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 54px;
+}
+
+.info{
+    position: absolute;
+width: 845px;
+height: 216px;
+left: 96px;
+top: 1235px;
+
+color: #000;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+}
+
+.c-u{
+    position: absolute;
+width: 309px;
+height: 51px;
+left: 396px;
+top: 1494px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+width: 251px;
+height: 58.97px;
+left: 387px;
+top: 1616px;
+
+}
+
+.facebook{
+    width: 52.5px;
+    height: 49.58px;
+}
